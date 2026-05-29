@@ -39,14 +39,14 @@ The median job search duration increased from 30 days (R-2) and 30 days (R-1) to
 
 This suggests that finding a new role has become increasingly time-consuming for candidates over time.
 
----
+--
 
 ### 2. Market conditions remain highly variable
 
 The interquartile range (IQR) shows substantial variation in job search duration among respondents.
 While the median was 43 days, 50% of candidates found a job within 21 - 90 days, highlighting the uncertainty and variability of the recruitment market.
 
----
+--
 
 ### 3. Experience level is the strongest differentiator
 
@@ -57,14 +57,14 @@ The median job search duration was:
 
 The results suggest that professional experience is one of the most important factors influencing job search duration.
 
----
+--
 
 ### 4. Experience matters more than candidate activity
 
 Factors such as certifications, CV customization, number of recruitment processes, or number of recruitment stages showed weak relationships with job search duration.
 In contrast, experience level demonstrated a much stronger impact on recruitment outcomes.
 
----
+-
 
 ### 5. Recruitment outcomes are driven by multiple factors
 
@@ -75,7 +75,7 @@ The analysis showed that successful job search outcomes depend on a combination 
 
 No single factor alone explained the differences in job search duration across respondents.
 
----
+-
 
 ### Dataset
 
