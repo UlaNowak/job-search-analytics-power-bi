@@ -36,6 +36,7 @@ The report was designed as an analytical case study combining dashboarding, data
 ### 1. Job search duration is increasing
 
 The median job search duration increased from 30 days (R-2) and 30 days (R-1) to 50 days in the most recent job search (R).
+
 This suggests that finding a new role has become increasingly time-consuming for candidates over time.
 
 ---
@@ -53,6 +54,7 @@ The median job search duration was:
 - Junior: 60 days
 - Mid: 50 days
 - Senior: 30 days
+
 The results suggest that professional experience is one of the most important factors influencing job search duration.
 
 ---
@@ -70,6 +72,7 @@ The analysis showed that successful job search outcomes depend on a combination 
 - professional experience,
 - market conditions,
 - recruitment process characteristics.
+
 No single factor alone explained the differences in job search duration across respondents.
 
 ---
@@ -83,11 +86,13 @@ No single factor alone explained the differences in job search duration across r
 ## Author
 
 Ula Nowak
+
 Business & Data Analytics | Supply Chain | Power BI | SQL
 
 ## Case study PDF
 
 The full Power BI report is available here: 
+
 [Download the PDF case study](screenshots/job-search-analytics-case-study.pdf)
 
 
