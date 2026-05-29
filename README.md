@@ -39,7 +39,7 @@ Business & Data Analytics | Supply Chain | Power BI | SQL
 ## Case study PDF
 
 The full Power BI report is available here: 
-[Download the PDF case study] (screenshots/analiza czasu poszukiwania pracy_Analityk Biznesowy.pdf)
+[Download the PDF case study](screenshots/analiza czasu poszukiwania pracy_Analityk Biznesowy.pdf)
 
 
 
